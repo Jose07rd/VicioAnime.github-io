@@ -27,10 +27,3 @@ li a:hover {
     background-color: rgb(8, 15, 75);
 
 }
-.section {
-    background-image: url('D:\Estudios\VicioAnime\Imagenes/OIP.jpeg');
-    background-size: cover;
-    background-position: center;
-    height: 400px;
-    /* otros estilos */
-}
